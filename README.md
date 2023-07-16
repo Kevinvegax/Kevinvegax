@@ -7,6 +7,7 @@ My name is Kevin Vega, I am Software Developer, I am currently working in Epicor
 - Javascript and Typescript
 - NodeJs
 - SQL and NoSql
+- REST and GraphQL
 - Docker
 - Linux
 - AWS
