@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋
 
+My name is Kevin Vega, I am Software Developer, I am currently working in Epicor, you can find me on Twitter and Linkedin
 <!--
 **kevinvegadeveloper/kevinvegadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
