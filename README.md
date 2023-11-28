@@ -7,18 +7,19 @@ My name is Kevin Vega, I am a skilled Software Engineer at Epicor Software Compa
 - Linux
 - Python
 - Shell scripting
-- AWS Pipelines
-- Docker
-- Kubernetes
 - SQL / NoSQL
+- Git
+- SCRUM
+- Jenkins
+- Postman
 - Javascript / Typescript
-- NodeJs
 - WebDriverIO
 - Selenium
+- Cypress
 - BDD
+- Unit Testing
 - Test Case
-- SCRUM
-- Git
+- JMeter
 
 <!--
 **kevinvegadeveloper/kevinvegadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
