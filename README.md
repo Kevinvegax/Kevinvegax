@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-My name is Kevin Vega, I am a skilled Software Engineer at Epicor Software Company. I excel at developing scripts in WebDriverIO using JavaScript and Typescript, and I have hands-on experience in server administration, programming data structures, and algorithms. Additionally, I'm proficient with CI/CD tools and DevOps process. Currently, I am actively pursuing my AWS Practitioner Certification to further enhance my cloud expertise.
+I am a skilled Software Engineer at Epicor Software Company. I excel at developing scripts in WebDriverIO using JavaScript and Typescript, and I have hands-on experience in server administration, programming data structures, and algorithms. I'm proficient with API Testing using Postman, CI/CD tools and DevOps process.
 
 
 # Technologies and tools
