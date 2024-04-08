@@ -12,12 +12,10 @@ I am a skilled Software Engineer at Epicor Software Company. I excel at developi
 - SCRUM
 - WebDriverIO
 - Selenium
-- JMeter
-- BDD
-- Unit Testing
-- Test Case
-- Jenkins
-- Postman
+- Performmance Testing
+- API Testing
+- Test Planning
+- CI | CD
 
 <!--
 **kevinvegadeveloper/kevinvegadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
